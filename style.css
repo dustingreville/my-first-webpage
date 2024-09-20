@@ -1,0 +1,13 @@
+
+html {background-color: black;}
+body {color: #cc00ff;}
+body {text-align: center;}
+h1 {text-decoration: underline;}
+h1{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p {font-size: larger;}
+p {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+ul{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+div {text-align: center;}
+ul {list-style: disc;}
+ul{list-style-position: inside;}
+table {font-size: large;}
